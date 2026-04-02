@@ -1,8 +1,8 @@
 <resources>
     <string name="app_name">StudentProfileApplication</string>
-    <string name="student_name">Name: Molleti Mohith kumar</string>
-    <string name="roll_number">Roll No: A23126552221</string>
+    <string name="student_name">Name: M.Surya</string>
+    <string name="roll_number">Roll No: A23126552218</string>
     <string name="course">Course: CSM-D</string>
-    <string name="email">Email: mohithkumar039@gmail.com</string>
+    <string name="email">Email: surya@gmail.com</string>
     <string name="show_details">Show Details</string>
 </resources>
